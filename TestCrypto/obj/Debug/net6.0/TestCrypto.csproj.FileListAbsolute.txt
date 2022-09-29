@@ -1,0 +1,17 @@
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\TestCrypto.exe
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\TestCrypto.deps.json
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\TestCrypto.runtimeconfig.json
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\TestCrypto.dll
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\TestCrypto.pdb
+D:\Research\Solution\CryptoLibrary\TestCrypto\bin\Debug\net6.0\CryptoLibrary.dll
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.csproj.AssemblyReference.cache
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.AssemblyInfoInputs.cache
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.AssemblyInfo.cs
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.csproj.CoreCompileInputs.cache
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.csproj.CopyComplete
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.dll
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\refint\TestCrypto.dll
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.pdb
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\TestCrypto.genruntimeconfig.cache
+D:\Research\Solution\CryptoLibrary\TestCrypto\obj\Debug\net6.0\ref\TestCrypto.dll

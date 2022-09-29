@@ -1,0 +1,10 @@
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\bin\Debug\net6.0\CryptoLibrary.deps.json
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\bin\Debug\net6.0\CryptoLibrary.dll
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.csproj.AssemblyReference.cache
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.AssemblyInfoInputs.cache
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.AssemblyInfo.cs
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.csproj.CoreCompileInputs.cache
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\CryptoLibrary.dll
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\refint\CryptoLibrary.dll
+D:\Research\Solution\CryptoLibrary\CryptoLibrary\obj\Debug\net6.0\ref\CryptoLibrary.dll
